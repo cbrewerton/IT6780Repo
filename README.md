@@ -69,7 +69,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Thanks to the amazing contributor who made this project possible, myself, [Christian] [Brewerton].
+- Thanks to the amazing contributor who made this project possible, myself, Christian Brewerton.
 - Inspiration from various recipe websites and cooking blogs.
 - Special thanks to the open-source community for providing great tools and libraries.
 - This project is designed and developed for my IT 6780 Course at Utah Valley University. 
