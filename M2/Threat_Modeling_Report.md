@@ -14,14 +14,14 @@ Risk assessments are a critical part of securing a web application. They help wi
 
 ### **Level 0 DFD**
 
-The [Level 0 DFD](./DFD_Level_0.drawio) provides an overall view of how "The Recipe Hub" interacts with external entities. In this case, the main external entity is the user of the application.
+The [Level 0 DFD](./images/DFD_Level_0.drawio.png) provides an overall view of how "The Recipe Hub" interacts with external entities. In this case, the main external entity is the user of the application.
 As shown in the diagram, the user will interact with the web application in order to register/login, browse, rate, comment and make payments on the application. Adminstrators will moderate, remove, view payment information, and edit pages.
 
 ---
 
 ### **Level 1 DFD**
 
-The [Level 1 DFD](./DFD_Level_1.drawio) provides a more detailed explanation of different data flows that are shown in the [DFD Level 0.](./DFD_Level_0.drawio) Each specific "box" in the diagram represents a seperate data-flow that starts with an external entity (in this case, the user), interacts with the web application, and then returns some sort of output. This output is generally sent to the backend of the application (api, databases) which then returns some sort of result (posted recipe or review, for example).
+The [Level 1 DFD](./images/DFD_Level_1.drawio.png) provides a more detailed explanation of different data flows that are shown in the [DFD Level 0.](./images/DFD_Level_0.drawio.png) Each specific "box" in the diagram represents a seperate data-flow that starts with an external entity (in this case, the user), interacts with the web application, and then returns some sort of output. This output is generally sent to the backend of the application (api, databases) which then returns some sort of result (posted recipe or review, for example).
 
 ---
 
